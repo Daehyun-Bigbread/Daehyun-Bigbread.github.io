@@ -13,9 +13,9 @@ author: Daehyun Kim
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   Career: "career"
-  Publication: "publication"
-  Data_Structure: "Data_Structure"
-  Deep_Learning: "Deep_Learning"
+  Data_Science: "publication"
+  Data_Structure: "blog"
+  Deep_Learning: "project"
   GitHub: "https://github.com/Daehyun-Bigbread"
   Google Scholar: ""
 
