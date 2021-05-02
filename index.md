@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student & Junior Engineer
+title: Student & Researcher
 subtitle: Small Researcher & Student tries to study hard Always...
 cover-img: /assets/img/aus_1.jpg
 
@@ -10,21 +10,18 @@ cover-img: /assets/img/aus_1.jpg
 
 ## About me
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**Daehyun Kim** is a **_Undergraduate Student_** of [HUFS] (Hankuk University of Foreign Studies). He's major is Department of Computer Engineering & Data Science (Convergence major) since 2020. and He studied Engineering Tec Major at Griffith University (Gold Coast Campus) at 2017. 
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+Now, I am studying about Raspberry Pi, and Data Structure, Data Science, also Using Pytorch to studying Deep Learning. And I have a something Experience to Participate Olympiad & Robot Conference. and I have experience working on a project by Arduino & Etc..
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+And on this blog, I will post about what I studied, what I will study in the future, and various topics I am studying. I'd appreciate it if you watched it even if it wasn't enough.
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+I likes to bring new ideas and share it with people. Thanks for reading, guys! &#128525;
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Hankuk University of Foreign Studies (HUFS)
+Office: 947, Gyeongsu-daero, Dongan-gu, Anyang-si, gyeonggido, Republic of Korea
+Email: bigdarkgold[at]gmail.com or kdh1834[at]hufs.ac.kr
 ```
