@@ -23,5 +23,5 @@ I likes to bring new ideas and share it with people. Thanks for reading, guys! &
 ```
 Affiliation: Hankuk University of Foreign Studies (HUFS)
 Office: 947, Gyeongsu-daero, Dongan-gu, Anyang-si, gyeonggido, Republic of Korea
-Email: bigdarkgold[at]gmail.com or kdh1834[at]hufs.ac.kr
+Email: bigdarkgold@gmail.com or kdh1834@hufs.ac.kr
 ```
