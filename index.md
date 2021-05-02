@@ -2,7 +2,8 @@
 layout: page
 title: Student & Junior Engineer
 subtitle: Small Researcher & Student tries to study hard Always...
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/aus_1.jpg
+
 ---
 
 <br/>
