@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Student & Junior Engineer
+subtitle: Small Researcher & Student tries to study hard Always...
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
