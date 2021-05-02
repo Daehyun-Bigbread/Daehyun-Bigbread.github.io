@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Editor. Daehyun Kim
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
+description: My IT Studying Repository 
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Daehyun Kim
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -16,14 +16,14 @@ navbar-links:
   Publication: "publication"
   Blog: "blog"
   Project: "project"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  GitHub: "https://github.com/Daehyun-kIM"
+  Google Scholar: ""
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/seokho-square-2.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: true
+round-avatar: false
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
@@ -36,9 +36,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
+  email: "bigdarkgold@gmail.com"
+  facebook: bigdarkgold
+  github: Daehyun-Bigbread
   linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
@@ -46,7 +46,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: whimsical._.bigbread
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
