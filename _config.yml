@@ -14,8 +14,8 @@ author: Daehyun Kim
 navbar-links:
   Career: "career"
   Publication: "publication"
-  Blog: "Data_Structure"
-  Project: "Deep_learning"
+  Data_Structure: "Data_Structure"
+  Deep_learning: "Deep_learning"
   GitHub: "https://github.com/Daehyun-kim"
   Google Scholar: ""
 
