@@ -3,7 +3,6 @@ layout: post
 title: Data Structure (1-1) - Point Class 선언
 subtitle: 파이썬 클래스 단계별 복습
 gh-repo: Daehyun-Bigbread/daehyun-bigbread.github.io
-gh-badge: [star, fork, follow]
 tags: [Data_Structure, Python, Point_Class]
 comments: true
 ---
@@ -15,9 +14,7 @@ comments: true
 ### Point Class 선언
 
 - Point 클래스는 2차원 평면의 점 (또는 2차원 벡터)을 나타내는 클래스이다
-
-- - 필요한 멤버는 점의 x-좌표와 y-좌표이다
-
+  - 필요한 멤버는 점의 x-좌표와 y-좌표이다
 - 다음과 같이 선언할 수 있다
 
 ```python
