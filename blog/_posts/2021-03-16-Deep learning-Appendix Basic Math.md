@@ -63,5 +63,3 @@ comments: true
 ### Argmax
 
 ![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161138.png)
-
-*  
