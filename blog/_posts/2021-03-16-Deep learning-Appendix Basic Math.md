@@ -18,49 +18,5 @@ comments: true
 
 * 지수함수
 
-  ![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160627.png)
-
-### 지수와 로그
-
-- 지수 기본 법칙
-
-  ![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160903.png)
-
-- 지수 연산 법칙
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160911.png)
-
-* 법칙의 응용
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160920.png)
-
-* 로그 함수
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160936.png)
-
-* 지수와 로그의 관계
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161034.png)
-
-* 로그 기본 법칙
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161045.png)
-
-* 로그 연산 법칙
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161055.png)
-
-### Summation & Product
-
-* Sum
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161106.png)
-
-* Product
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161117.png)
-
-### Argmax
-
-![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_161138.png)
+  ![20210519_160627](../../assets/img/20210519_160627.png)
 
