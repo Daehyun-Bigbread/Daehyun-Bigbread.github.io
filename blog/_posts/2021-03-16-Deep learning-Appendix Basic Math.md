@@ -34,33 +34,31 @@ comments: true
 
 * 로그 함수
 
-  
-
 * 지수와 로그의 관계
 
-  
+  ![20210519_161034](../../assets/img/20210519_161034.png)
 
 * 로그 기본 법칙
 
-  
+  ![20210519_161045](../../assets/img/20210519_161045.png)
 
 * 로그 연산 법칙
 
-  
+  ![20210519_161055](../../assets/img/20210519_161055.png)
 
 ### Summation & Product
 
 - Sum
 
-  
+  ![20210519_161106](../../assets/img/20210519_161106.png)
 
 - Product
 
-  
+  ![20210519_161117](../../assets/img/20210519_161117.png)
 
 ### Argmax
 
 - Pick the argument that makes max value.
 
-
+![20210519_161138](../../assets/img/20210519_161138.png)
 
