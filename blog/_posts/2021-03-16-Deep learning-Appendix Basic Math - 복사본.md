@@ -18,7 +18,7 @@ comments: true
 
 * 지수함수
 
-  ![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160627.png)
+  ![](Daehyun-Bigbread.github.io\assets\img\20210519_160627.png)
 
 ### 지수와 로그
 
