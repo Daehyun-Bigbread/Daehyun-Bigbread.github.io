@@ -18,13 +18,13 @@ comments: true
 
 * 지수함수
 
-  ![](Daehyun-Bigbread.github.io\assets\img\20210519_160627.png)
+  ![20210519_160627.png](Daehyun-Bigbread.github.io\assets\img\20210519_160627.png)
 
 ### 지수와 로그
 
 - 지수 기본 법칙
 
-  ![](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160903.png)
+  ![20210519_160903.png](C:\Users\bigda\Documents\GitHub\Daehyun-Bigbread.github.io\assets\img\20210519_160903.png)
 
 - 지수 연산 법칙
 
