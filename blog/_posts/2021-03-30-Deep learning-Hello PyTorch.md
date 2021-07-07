@@ -37,7 +37,7 @@ import torch
 
 ```python
 c = torch.matmul(a, b)
-c`
+c
 ```
 
 결과값 : 
