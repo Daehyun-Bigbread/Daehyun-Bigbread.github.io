@@ -212,8 +212,11 @@ Get Tensor Shape.
   print(x.shape)
   ```
 
+  
+
   ```python
   # |x| = (3,3,2) 
+  
   torch.Size([3, 2, 2])
   torch.Size([3, 2, 2])
   ```
@@ -227,6 +230,8 @@ Get Tensor Shape.
 print(x.dim())
 print(len(x.size()))
 ```
+
+
 
 ```
 3
@@ -242,6 +247,8 @@ print(x.size(1))
 print(x.shape[1])
 ```
 
+
+
 ```
 2
 2
@@ -256,6 +263,8 @@ Get number of elements in the last dimension.
 print(x.size(-1))
 print(x.shape[-1])
 ```
+
+
 
 ```
 2
