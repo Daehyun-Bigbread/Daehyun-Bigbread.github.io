@@ -16,23 +16,33 @@ comments: true
 
 - import PyTorch
 
-`import torch`
+```python
+import torch
+```
+
+
 
 - PyTorch의 float tensor 들을 정의해준다. 
 
-  `a = torch.FloatTensor([[1, 2],
+  ```python
+  a = torch.FloatTensor([[1, 2],
                          [3, 4]])
   b = torch.FloatTensor([[1, 2],
                          [1, 2]])`
+  ```
+
+  
 
 - float Tensor의 행렬 곱셈 예제이다.
 
-`c = torch.matmul(a, b)
+```python
+c = torch.matmul(a, b)
 c`
+```
 
 결과값 : 
 
-```
+```python
 tensor([[ 3.,  6.],
         [ 7., 14.]])
 ```
