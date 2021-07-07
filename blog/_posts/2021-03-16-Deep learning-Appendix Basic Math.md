@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep learning 강좌(3) - 좋은 인공지능 이란?
+title: Deep learning 강좌(3) - Appendix Basic Math
 subtitle: Fast_Campus_처음부터 시작하는 딥러닝 유치원 Online
 gh-repo: Daehyun-Bigbread/daehyun-bigbread.github.io
 gh-badge: [star, fork, follow]
