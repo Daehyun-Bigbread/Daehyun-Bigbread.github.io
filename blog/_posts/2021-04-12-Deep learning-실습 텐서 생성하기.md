@@ -22,7 +22,9 @@ comments: true
   import torch
   ```
 
-#### Tensor Allocation
+
+
+### Tensor Allocation
 
 - In [2] : 
 
@@ -87,9 +89,11 @@ tensor([[1, 0],
           [9.8091e-45, 0.0000e+00]])
   ```
 
-  ### NumPy Compatibility
+  
 
-- In [6] : 
+### NumPy Compatibility
+
+* In [6] :
 
 ```python
 import numpy as np
