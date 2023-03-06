@@ -809,6 +809,7 @@ pre {
   border-radius: 0.25rem;
   padding: 0.59375rem;
 }
+
 .highlight pre {
   border: none;
   background: none;
@@ -847,6 +848,7 @@ pre {
 .lineno::selection, .lineno::-moz-selection {
   background: none;
 }
+
 
 /* --- Social media sharing section --- */
 
